@@ -140,6 +140,7 @@ INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy8
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy6.tfm
 OUTPUT nakup_stanovanja.toc
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmro12.tfm
+INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT nakup_stanovanja.aux
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
@@ -149,5 +150,7 @@ INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
+INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmro12.pfb
 INPUT C:\Users\Uporabnik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmro12.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.20)  28 FEB 2022 19:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.8.20)  28 FEB 2022 20:31
 entering extended mode
 **"c:/Users/Uporabnik/Desktop/NAKUP STANOVANJA/Nakup_stanovanja/nakup_stanovanja.tex"
 (c:/Users/Uporabnik/Desktop/NAKUP STANOVANJA/Nakup_stanovanja/nakup_stanovanja.tex
@@ -139,19 +139,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `nakup_stanovanja.toc'.
 
- [1] [2] [3] (nakup_stanovanja.aux) ) 
+ [1] [2]
+Overfull \hbox (77.73468pt too wide) in paragraph at lines 40--45
+[][] 
+ []
+
+[3] (nakup_stanovanja.aux) ) 
 Here is how much of TeX's memory you used:
- 1617 strings out of 478864
- 25598 string characters out of 2846764
- 334199 words of memory out of 3000000
- 19550 multiletter control sequences out of 15000+600000
- 450383 words of font info for 56 fonts, out of 8000000 for 9000
+ 1620 strings out of 478864
+ 25636 string characters out of 2846764
+ 336199 words of memory out of 3000000
+ 19552 multiletter control sequences out of 15000+600000
+ 454645 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,52p,238b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
-Output written on nakup_stanovanja.pdf (4 pages, 109716 bytes).
+ 40i,6n,52p,819b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Uporabnik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
+Output written on nakup_stanovanja.pdf (4 pages, 133150 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
