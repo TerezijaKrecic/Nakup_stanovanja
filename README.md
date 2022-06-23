@@ -1,4 +1,4 @@
-# Nakup_stanovanja
+# Nakup stanovanja
 
 Seminarska naloga pri predmetu Seminar v poletnem semestru 2022 na FMF.
 
